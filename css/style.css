@@ -1,0 +1,18 @@
+body {
+    background-image: url(https://i.pinimg.com/474x/b4/5c/7d/b45c7d1140b58c9ab4a43b1d5006ce63.jpg);
+    background-size: 750px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+h1 {
+        width: 350px;
+        height: 220px;
+        padding: 15px 10px 20px 10px; 
+        margin-bottom: 30px; 
+        border: 2px dashed red; 
+        background-color: green; 
+    
+    
+}
